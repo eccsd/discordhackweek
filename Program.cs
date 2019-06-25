@@ -25,7 +25,7 @@ namespace RTXBot
                 .AddSingleton(_client)
                 .AddSingleton(_commands)
                 .BuildServiceProvider();
-            string botToken = "NTYwOTY5MTY5NzM1MjU0MDM5.D37q3Q.PpGEmWepGzJ-rEMRMCYXDPoTuNg";
+            string botToken = "ENTER_TOKEN_HERE";
             string release = "1"; string majorVersion = "0"; string minorVersion = "0";
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine($"Maui, the only bot you need in your life! v{release}.{majorVersion}.{minorVersion}");
