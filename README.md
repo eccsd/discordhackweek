@@ -8,5 +8,5 @@ Whenever a user says thank you, Maui will spring into chat and surprise you with
 > - Maui
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Milotrince/discord-roombot/master/assets/discord-hack-week.jpeg" href="https://blog.discordapp.com/discord-community-hack-week-build-and-create-alongside-us-6b2a7b7bba33"></img>
+  <a href="https://blog.discordapp.com/discord-community-hack-week-build-and-create-alongside-us-6b2a7b7bba33"><img src="https://raw.githubusercontent.com/Milotrince/discord-roombot/master/assets/discord-hack-week.jpeg"></img></a>
 </p>
